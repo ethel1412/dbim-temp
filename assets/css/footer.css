@@ -109,27 +109,6 @@ footer .footerbox ul.useful-links-list li {
 }
 
 
-/* ==========================================
-   CHEVRON
-========================================== */
-
-footer .footerbox ul.useful-links-list li .material-symbols-outlined {
-    flex-shrink: 0;
-
-    color: #ffffff;
-
-    font-family: "Material Symbols Outlined";
-
-    font-size: 18px;
-    font-weight: normal;
-    line-height: 1;
-
-    margin-right: 4px;
-    padding: 0;
-
-    transform: none;
-}
-
 
 /* ==========================================
    USEFUL LINK TEXT
@@ -140,7 +119,7 @@ footer .footerbox ul.useful-links-list li a {
 
     color: #ffffff;
 
-    font-size: 20px;
+    font-size: 16px;
     line-height: 25px;
     font-weight: 400;
 
